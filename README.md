@@ -1,1 +1,2 @@
 - Day 01: Posts viewer using the Fetch API
+- Day 02: Quote app using the Fetch API
