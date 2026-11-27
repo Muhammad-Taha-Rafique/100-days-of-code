@@ -20,7 +20,7 @@ Click **New Quote** to get another one.
 - How `fetch` asks an API for data
 - `async` / `await` and `try / catch / finally`
 - Connecting a button with `addEventListener`
-- Disabling a button with `btn.disabled`
+- Disabling a button with `newQuoteBtn.disabled`
 
 ## How to Run
 Open `index.html` in your browser.
