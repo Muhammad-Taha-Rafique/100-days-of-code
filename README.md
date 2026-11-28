@@ -1,2 +1,2 @@
-- Day 01: Posts viewer using the Fetch API
-- Day 02: Quote app using the Fetch API
+- Day 01: Posts viewer using the Fetch API - [Live](https://muhammad-taha-rafique.github.io/100-days-of-code/day-01-posts-viewer/)
+- Day 02: Quote app using the Fetch API - [Live](https://muhammad-taha-rafique.github.io/100-days-of-code/day-02-quote-app/)
